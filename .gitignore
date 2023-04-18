@@ -2,5 +2,7 @@ Clients_Profile/data/clients_cluster.csv
 
 Clients_Profile/data/.ipynb_checkpoints
 Clients_Profile/data/application_record.csv
+Clients_Profile/data/clients_cluster_def.csv
+Clients_Profile/data/clusters.csv
 Card_Fraud/data/card_transdata.csv
 Card_Fraud/data/smote_random_forest.pkl
