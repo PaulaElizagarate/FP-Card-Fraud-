@@ -2,7 +2,7 @@
 
 This project aims to predict possible credit card fraud and cluster clients based on their behavior. The project is divided into two parts: Card Fraud and Clients Clustering.
 
-![](Card_Fraud/streamlit/images/credit_card.jpeg)
+![](Card_Fraud/streamlit/images/image_readme.png)
 
 ### Project Structure
 
