@@ -28,7 +28,7 @@ The data used for the Card Fraud model is stored in the data folder under card_f
 
 #### - Model
 
-The machine learning model used for predicting credit card fraud is based on a random forest classifier. The model achieves an accuracy of X% on the test set.
+The machine learning model used for predicting credit card fraud is based on a random forest classifier. The model achieves an accuracy of 99% on the test set.
 
 ### Clients Clustering
 
