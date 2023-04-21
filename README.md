@@ -47,3 +47,10 @@ The machine learning model used for clustering clients is based on K-Means clust
 ### Conclusion
 
 The project successfully develops two machine learning models for predicting possible credit card fraud and clustering clients based on their behavior. These models can be used to target specific types of clients and prevent credit card fraud.
+
+## Contact me
+
+For more information, suggestions or doubts please feel free to contact me:
+[Paula Elizagarate](https://www.linkedin.com/in/paulaelizagarate/)
+
+![](https://www.reactiongifs.com/r/dbts.gif)
