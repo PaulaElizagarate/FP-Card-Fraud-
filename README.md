@@ -2,6 +2,8 @@
 
 This project aims to predict possible credit card fraud and cluster clients based on their behavior. The project is divided into two parts: Card Fraud and Clients Clustering.
 
+![](https://github.com/PaulaElizagarate/Proyecto-Machine-Learning/blob/main/images/Portada.png)
+
 ### Project Structure
 
 The project structure is as follows:
